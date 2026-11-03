@@ -15,7 +15,7 @@ Play: https://matthewbtobias.github.io/soccrillion/
 
 ```json
 {"date":"2026-11-03","questions":[
-  {"id":"short-id","cat":"eu|nat|mls","people":1,"prompt":"Name a ...","scope":"What counts",
+  {"id":"short-id","cat":"eu|nat|mls","people":1,"prompt":"Name a ...","scope":"What counts","note":"One sentence on what the Soccrillion answer is and why it is rare",
    "t":["tier1 answers","tier2","tier3","tier4","tier5"]}
 ]}
 ```
